@@ -1,1 +1,1 @@
-# Text-Summarizer-Project-AWS-
+# Text Summarizer Project AWS
